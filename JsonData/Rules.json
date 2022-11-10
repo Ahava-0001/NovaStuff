@@ -1,0 +1,22 @@
+{
+    "Version": "1.0",
+    "Intro": "Project Nova is not affiliated with Epic Games, if you use this software as intended you cannot and will not result in a Fortnite account ban.",
+    "LauncherRules" : 
+    [
+    "We strictly prohibit editing the Nova Launcher, in the event that our software is used incorrectly (modifying the Nova Launcher), we are not responsible for any damage caused to ones device or Fortnite account.",
+    "If you are having an issue with the launcherdo NOT ping or message and admin for help, kindly go into our discord (linked below) and go to the #create-a-ticket channel and make a ticket, someone from the support team will get back to you when they can.",
+    "Do NOT share or send your version of the launcher, if someone asks for the Nova Launcher, direct them to the #download channel in our discord server (linked below).",
+    "If you are banned from playing Project Nova and you bypass your ban restrictions, it will result in further consequences."
+    ],
+    "FortniteRules" : [
+    "Even through we are not connected to Epic Games at all, you still need to follow the same restrictions, that includes Account Name, Hacking, Teaming and more",
+    "If you are caught cheating in anyway, it will result in a permanent ban.",
+    "Teaming up with an enemy is strictly prohibited.",
+    "Using any form of modifications to give you an advantage against other players will result in a ban.",
+    "Impersonating another player(their username) is NOT allowed.",
+    "Leaking any personal info through our server will result in an immediate ban, such as making your name a phone number or a person's real name.",
+    "If you intentionally decrease the performance in the server will result in a ban.",
+    "Abusing any bugs in the server will result in a temp or permanent ban.",
+    "Names that would offend another person is a will result in either a temp ban or a permanent ban.",
+    "Special characters are not allowed in-game, you will be kicked from the match if you do."]
+  }
